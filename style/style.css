@@ -1,0 +1,65 @@
+* {
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #202020;
+    padding: 20px 40px;
+}
+
+.wrapper {
+    background-color: gold;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 10px 20px grey;
+}
+
+.sidebar {
+    background-color:rgb(60, 60, 61);
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 400px;
+}
+
+.avatar {
+    width: 300px;
+    display: block;
+    margin:0 auto;
+    border-radius: 50%;
+}
+
+.contacts_container {
+    margin: 40px 60px 40px;
+    color: rgb(226, 218, 218);
+}
+
+.container__title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.contacts_item {
+    margin-bottom: 10px;
+}
+
+.contacts_link {
+    text-decoration: none;
+    color: gold;
+}
+
+.tech_skills_container {
+    margin: 40px 60px 40px;
+    color: rgb(226, 218, 218);
+}
+
+.tech_skills_item {
+    margin-bottom: 10px;
+    color:gold;
+}
+.tech_skills_text {
+    color: rgb(226, 218, 218);
+}
