@@ -67,6 +67,7 @@ body {
 
 .about_me_container {
     margin: 90px;
+    margin-bottom: 0;
 }
 
 .profession {
@@ -128,4 +129,14 @@ body {
     font-size: 20px;
     margin-bottom: 10px;
     color: #6b6a69;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+    align-items: baseline;
+}
+.rsPhoto {
+    max-width: 100px;
 }
