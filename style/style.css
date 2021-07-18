@@ -11,7 +11,7 @@ body {
 }
 
 .wrapper {
-    background-color: gold;
+    background-color: rgb(219, 219, 219);
     display: flex;
     max-width: 1200px;
     margin: 0 auto;
@@ -58,8 +58,74 @@ body {
 
 .tech_skills_item {
     margin-bottom: 10px;
+    margin-left: 20px;
     color:gold;
 }
 .tech_skills_text {
     color: rgb(226, 218, 218);
+}
+
+.about_me_container {
+    margin: 90px;
+}
+
+.profession {
+    color: #6b6a69;
+}
+
+.my_name {
+    margin-top: 30px;
+}
+
+.description {
+    margin-top: 20px;
+}
+
+.my_projects {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.projects_item {
+    margin-bottom: 10px;
+}
+
+.project_link {
+    text-decoration: none;
+    color:indigo;
+}
+
+.tech_name {
+    color: gray;
+}
+
+.about_me_title {
+    margin: 20px 0;
+    font-size: 25px;
+}
+
+.profession_title {
+    color: #6b6a69;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.profession_time {
+    margin: 5px 15px 10px;
+    font-size: 15px;
+}
+
+.professional_functions {
+    margin-left: 20px;
+    font-size: 17px;
+}
+
+.professional_functions_item {
+    margin: 5px 0;
+}
+
+.education_title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #6b6a69;
 }
