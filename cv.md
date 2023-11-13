@@ -3,13 +3,14 @@
 
 ## Belov Dmitrii
 
+![Avatar](/images/avatar.jpg)
+
 ### __Contacts:__
   * City: Moscow
   * phone: 8-911-159-97-53
   * email: belovd90@mail.ru.
   * Telegram: @BelovDmitriii
   * Discord: Dmitrii Belov (@BelovDmitriii)
-***********************************************
 
 ### __Soft Skills:__
 * Responsible, I perform assigned tasks by the deadline.
@@ -27,7 +28,6 @@
 * Svelte JS
 * State managers: Redux, RTK, RTK Query, MobX
 * module bundlers: Webpack, Vite
-***********************************************
 
 ### __My work examples:__
 * [Kekstagramm]( https://github.com/BelovDmitriii/1649551-kekstagram-24 "social network for processing and publishing photos")
@@ -53,7 +53,6 @@
 * HTML Academy ***Frontend Developer*** - *(September 2021 - January 2022)*
 * HTML Academy ***React Developer*** - *(January 2022 - June 2022)*
 * Innopolis University ***React Developer*** - *(September 2022 - January 2023)*
-***********************************************
 
 ### __Education:__
 * St. Petersburg State University of Telecommunications prof. M.A. Bonch-Bruevich, St. Petersburg
