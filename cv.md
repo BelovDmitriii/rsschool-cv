@@ -60,7 +60,7 @@
   MTS (Multichannel Telecommunication Systems)
   *Septemper 2007 - June 2012 | Russia*
 * GAPOU Samara region"Togliatti socio-pedagogical College"
-  "Frontend development technologies, "Web Design and Development"
+  "Frontend development technologies. Web Design and Development"
   *November 2020 - March 2021 | Russia*
 
 ### __Languages:__
