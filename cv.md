@@ -1,4 +1,4 @@
-# Resume React Developer
+# CV React Developer
 ***********************************************
 
 ## Belov Dmitrii
@@ -8,7 +8,7 @@
 ### __Contacts:__
   * City: Moscow
   * phone: 8-911-159-97-53
-  * email: belovd90@mail.ru.
+  * email: belovdmitriii@gmail.com.
   * Telegram: @BelovDmitriii
   * Discord: Dmitrii Belov (@BelovDmitriii)
 
@@ -28,6 +28,7 @@
 * Svelte JS
 * State managers: Redux, RTK, RTK Query, MobX
 * module bundlers: Webpack, Vite
+* Git
 
 ### __My work examples:__
 * [Kekstagramm]( https://github.com/BelovDmitriii/1649551-kekstagram-24 "social network for processing and publishing photos")
@@ -59,7 +60,7 @@
   MTS (Multichannel Telecommunication Systems)
   *Septemper 2007 - June 2012 | Russia*
 * GAPOU Samara region"Togliatti socio-pedagogical College"
-  "Frontend development technologies, "Web Design and Development"
+  "Frontend development technologies. Web Design and Development"
   *November 2020 - March 2021 | Russia*
 
 ### __Languages:__
