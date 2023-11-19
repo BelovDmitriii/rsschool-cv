@@ -52,6 +52,10 @@ body {
   color: gold;
 }
 
+.work_name {
+  display: none;
+}
+
 .tech_skills_container {
   margin: 40px 60px 40px;
   color: rgb(226,218,218);
@@ -128,7 +132,7 @@ body {
   font-weight: 600;
 }
 
-profession_title {
+.profession_title {
   margin-top: 5px;
   font-weight: 300;
 }
@@ -141,4 +145,101 @@ profession_title {
 
 .education_fac {
   margin: 5px 10px;
+}
+
+@media screen and (max-width: 940px){
+  .avatar {
+    width: 75%;
+  }
+  .contacts_container, .tech_skills_container {
+    width: 90%;
+    margin: 20px 30px 20px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 645px){
+  body {
+    padding: 0;
+    font-size: 14px;
+  }
+
+  .wrapper {
+    display: block;
+    width: 100%;
+  }
+
+  .sidebar {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-bottom: 0;
+    padding-top: 0px;
+  }
+
+  .avatar {
+    width: 30%;
+    height: 30%;
+  }
+
+  .contacts_container {
+    width: 48%;
+    margin: 10px 10px 0px;
+    color: rgb(226,218,218);
+  }
+
+  .container_title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .tech_skills_container {
+    margin: 20px 40px 20px;
+    color: rgb(226,218,218);
+  }
+
+  .contacts_item {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+
+  .tech_skills_item {
+    margin-bottom: 5px;
+  }
+
+  .work_name {
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+  }
+
+  .profession {
+    font-size: 32px;
+    margin: 0px auto;
+    padding-left: 30px;
+    padding-top: 10px;
+    background-color:rgb(219,219,219);
+  }
+
+  .username {
+    font-size: 24px;
+    margin: -1px auto;
+    padding-left: 30px;
+    background-color:rgb(219,219,219);
+  }
+
+  .main_info {
+    margin: 0 30px;
+  }
+
+  .info_container h1 {
+    display: none;
+  }
+
+  .education_container {
+    padding-bottom: 20px;
+  }
+
+  .education_title {
+    font-size: 16px;
+  }
 }
